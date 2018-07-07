@@ -1,0 +1,1 @@
+class Horse extends Animal { }
